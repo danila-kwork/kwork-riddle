@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="11">
+      <module name="Notes.core.core_database_data" target="11" />
+      <module name="Notes.core.core_database_domain" target="1.8" />
+      <module name="Notes.core.core_database_domain.main" target="1.8" />
+      <module name="Notes.core.core_database_domain.test" target="1.8" />
+      <module name="Notes.core.core_ui" target="11" />
+      <module name="Notes.feature.feature_note_add" target="11" />
+      <module name="Notes.feature.feature_note_update" target="11" />
+      <module name="Notes.feature.feature_notes_info" target="11" />
+      <module name="Notes.feature.feature_notes_list" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
