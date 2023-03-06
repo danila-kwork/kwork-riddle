@@ -9,11 +9,11 @@ android {
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.Ark.Kev"
+        applicationId "com.Quotes.Great"
         minSdk 21
         targetSdk 33
-        versionCode 4
-        versionName "1.1.1"
+        versionCode 5
+        versionName "1.1.2"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables {
@@ -80,5 +80,6 @@ dependencies {
 
     implementation "com.google.accompanist:accompanist-swiperefresh:0.28.0"
 
+    implementation("joda-time:joda-time:2.12.1")
     coreLibraryDesugaring("com.android.tools:desugar_jdk_libs:1.1.6")
 }

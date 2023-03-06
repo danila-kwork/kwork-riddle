@@ -4,15 +4,15 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.Ark.Kev",
+  "applicationId": "com.Quotes.Great",
   "variantName": "release",
   "elements": [
     {
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 4,
-      "versionName": "1.1.1",
+      "versionCode": 5,
+      "versionName": "1.1.2",
       "outputFile": "app-release.apk"
     }
   ],
